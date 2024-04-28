@@ -7,5 +7,5 @@
 
 ##Experiencia Laboral
 Porfe de Extraescolares de Robótica
-[Robótica](https://robotsinaction.com/) +🤖
+[Enlace a Robótica](https://robotsinaction.com/) 🤖
 
