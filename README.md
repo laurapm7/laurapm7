@@ -2,7 +2,7 @@
 
 Soy desarrolladora junior recién graduada en el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-Me gusta especialmente el desarrollo de aplicaciones móviles y durante mi formación he trabajado con tecnologías como Kotlin, Android Studio, Swift, UIKit, Firebase y bases de datos relacionales como MySQL y PostgreSQL. También tengo conocimientos de conexión a bases de datos desde aplicaciones Java/Kotlin y uso básico de Hibernate para la persistencia de datos.
+Me apasiona el desarrollo de aplicaciones móviles y web. He desarrollado proyectos utilizando Kotlin, Android Studio, Swift, UIKit, Firebase, HTML, CSS y React. Además, tengo conocimientos en bases de datos relacionales como MySQL y PostgreSQL, integración de aplicaciones Java y Kotlin con bases de datos, gestión de autenticación y almacenamiento en la nube mediante Firebase Authentication y Firestore, así como nociones de Hibernate y JPA para la persistencia de datos siguiendo buenas prácticas de desarrollo.
 
 ## Tecnologías
 
